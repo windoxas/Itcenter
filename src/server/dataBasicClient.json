@@ -1,0 +1,29 @@
+{
+    "Denov":[
+        {}
+    ],
+
+    "SarosiyaKompyuterGrama":[
+        {
+            "id": 1,
+            "name":"Sarosiya",
+            "courses":"Kompyuter Savotxonligi"
+        }
+    ],
+    "KumkurganKompyuterGrama":[
+        {   
+            "id": 1,
+            "name":"Sheral",
+            "courses":"Kompyuter Savotxonligi"
+
+        }
+    ],
+    "KumkurganGameSport":[
+        { 
+            "id":1,
+            "name":"GameSport",
+            "courses":"Game Sport"
+        }
+    ]
+
+}

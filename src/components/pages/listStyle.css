@@ -1,0 +1,18 @@
+
+
+li{
+    list-style: none;
+    font-size: 22px;
+}
+
+.design,
+.english,
+.gameSport,
+.pc_gram,
+.mobile,
+.mobileRoboto,
+.web,
+.webDesign{
+    margin-top: 150px;
+    
+}
